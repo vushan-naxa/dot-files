@@ -138,10 +138,10 @@ export NVM_DIR="$HOME/.nvm"
 parse_git_branch() {
      valt=$(git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/')
      if [ -d .git ] ; then
-          echo -ne "\e[1;3;34mon\e[m \e[3;1;35m$valt\e[m "
+          echo -ne "\e[1;3;34mon\e[m \e[1;1;31m$valt\e[m "
      fi
 }
-export PS1='\[\e[1;30m\]┌──\[\e[m\]\[\e[1;3;37m\]\u\[\e[m\e[3;37m\]@\h\[\e[m\] \e[1;33m\]¯\_(๏◡๏)_/¯\e[m\] $(parse_git_branch)\[\e[1;3;34m\]at\[\e[m\] \[\e[1;3;32m\]\w\[\e[m\]\n\[\e[1;30m\]└──╼\[\e[m\] \$ '
+export PS1='\[\e[1;3;32m\]\w\[\e[m\] $(parse_git_branch)\n⤷ '
 
 alias rt="nvim"
 alias wt="curl wttr.in"
