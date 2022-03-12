@@ -1,0 +1,2000 @@
+sudo apt install suckless-tools
+sudo date -s '25 NOV 2021 13:50:00'
+sudo apt purge i3status
+sudo apt purge i3lock
+sudo apt purge dunst
+sudo apt purge i3-wm
+sudo apt autoremove
+sudo apt install i3
+sudo date -s '25 NOV 2021 13:58:00'
+sudo add-apt-repository ppa:aacebedo/libi3ipc-glib
+sudo apt install libi3ipc-glib
+sudo add-apt-repository ppa:aacebedo/libi3ipc-glib
+sudo apt-get update
+sudo add-apt-repository ppa:aacebedo/libi3ipc-glib
+sudo apt purge i3
+sudo apt autoremove
+exit
+sudo apt instlal haskell-stack
+sudo apt install haskell-stack
+exit
+sudo apt install libx11-dev libxft-dev libxinerama-dev libxrandr-dev libxss-dev
+mkdir -p .config/xmonad && cd .config/xmonad
+ls
+touch xmonad.hs
+nano xmonad.hs 
+git clone https://github.com/xmonad/xmonad
+git clone https://github.com/xmonad/xmonad-contrib
+stack upgrade
+ls
+stack init
+ls
+cat stack.yml
+cat stack.yaml
+stack install
+/etc/X11/xinit/xinitrc
+python
+cd ZITE/srv/zite
+git status
+code ../zite_ssh/.
+code .
+git status
+git pull origin staging 
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+exec xmonad
+cat /usr/share/xsessions/
+cat .xsession
+cat .xsession-errors
+touch /usr/share/xsessions/xsession.desktop
+sudo touch /usr/share/xsessions/xsession.desktop
+nano /usr/share/xsessions/xsession.desktop 
+sudo nano /usr/share/xsessions/xsession.desktop 
+nano .xession
+/etc/X11/xinit/xinitrc
+ls .config/
+cd .config/xmonad/
+ls
+which xmonad
+xmonad
+exec xmonad
+cat .xinitrc
+xmonad --recompile
+exec xmonad
+sudo date -s '25 NOV 2021 15:04:00'
+exit
+sudo rm /usr/share/xsessions/xsession.desktop 
+ls
+sudo rm -rf .config/xmonad/
+sudo apt purge libx11-dev libxft-dev libxinerama-dev libxrandr-dev libxss-dev haskell-stack
+sudo apt purge haskell-stack
+sudo apt instlal libgl-dev
+sudo apt install libgl-dev
+sudo apt purge libx11-dev libxft-dev libxinerama-dev libxrandr-dev libxss-dev 
+sudo apt autoremove
+sudo apt install i3
+a = default_dict([1, 2, 3])
+a = default_dict
+python
+python
+cd ZITE/srv/zite_ssh/
+cd 
+cd ZITE/srv/zite
+cd zite
+git status
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code ../zite_ssh/.
+ls
+code ../zite_ssh/.
+git pull origin staging 
+git status
+git add core/utils/v2/site_dashboard.py
+git commit -m 'site-dashboard permission tree'
+git pull origin staging 
+git status
+git pull origin staging 
+git push origin feature-site 
+sudo apt purge kde-plasma
+sudo apt purge plasma
+sudo apt purge parrot-plasma
+sudo apt purge parrot-kde
+ssh ubuntu@34.83.186.91
+sudo date -s '25 NOV 2021 23:48:00'
+sudo date -s '26 NOV 2021 12:45:00'
+cd ZITE/srv/
+code zite_ssh/.
+cd zite
+code .
+git status
+ssh ubuntu@34.83.186.91
+exit
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+code zite_ssh/
+code zite_ssh/.
+cd zite
+git status
+ssh ubuntu@34.83.186.91
+python
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sudo date -s '28 NOV 2021 13:07:00'
+sudo date -s '28 NOV 2021 15:43:00'
+cd ZITE/srv/
+code zite_ssh/.
+code zite/.
+cd zite
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sudo date -s '30 NOV 2021 13:58:00'
+sudo date -s '30 NOV 2021 17:13:00'
+sudo date -s '30 NOV 2021 19:13:00'
+sudo date -s '01 DEC 2021 10:34:00'
+exir
+exit
+rt
+python
+cd projects/vectortile_frontend_openlayer/
+code .
+cd
+cd ZITE/srv/
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/zite
+code .
+code ../zite_ssh/.
+ssh ubuntu@34.83.186.91
+git status
+git pull origin staging 
+cd
+ls
+mkdir projects
+cd projects/
+ls
+git clone https://github.com/naxa-developers/vectortile_frontend_openlayer.git
+cd vectortile_frontend_openlayer/
+npm start
+npm --version
+ls
+cd ..
+ls
+npx create-react-app my-app
+npm install create-react-app
+npm audit fix
+npm audit fix --force
+npm install create-react-app
+cd 
+cd projects/vectortile_frontend_openlayer/
+npm install
+npm start
+npx install create-react-app
+ls
+npm install
+npm start
+cd 
+cd ZITE/srv/zite
+git status
+git pull origin staging
+git status
+git diff api/utils/vector_tile.py
+git checkout api/utils/vector_tile.py
+git status
+git pull origin staging
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code ../zite_ssh/.
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+sudo apt install cargo
+cargo install alacritty
+cd
+cargo install alacritty
+apt-get install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+sudo apt-get install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+git clone https://github.com/alacritty/alacritty.git
+cd alacritty
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+rustup override set stable
+ls
+cd Downloads/
+ls
+clear
+exit
+ls
+clear
+exit
+rustup override set stable
+rustup update stable
+cargo build --release
+infocmp alacritty
+sudo cp target/release/alacritty /usr/local/bin # or anywhere else in $PATH
+sudo cp extra/logo/alacritty-term.svg /usr/share/pixmaps/Alacritty.svg
+sudo desktop-file-install extra/linux/Alacritty.desktop
+sudo update-desktop-database
+ls
+cd alacritty
+ls
+cd src/
+ls
+cd ..
+cp alacritty.yml alacritty.oldyml
+git clone https://github.com/tmcdonell/config-alacritty.git
+ls
+cd config-alacritty/
+ls
+cp alacritty.yml ../
+cp alacritty.yml ../alacritty.yml
+cd ..
+cat alacritty.yml 
+cd
+ls
+cd nvim/bin/
+ls
+cd ..
+ls
+cd
+cd .config/nvim/lua/
+ls
+wt
+clear
+cd
+sudo rm -rf nvim/
+ls
+sudo apt install neo-vim
+sudo apt install neovim
+nvim
+ls .config/nvim/
+sudo rm -rf .config/nvim/lua/
+cp Downloads/dotfiles-master/nvim/* .config/nvim/
+cp -r Downloads/dotfiles-master/nvim/* .config/nvim/
+ls .config/nvim/
+cat .config/nvim/init.vim 
+source .bashrc
+rt
+ls .config/nvim/
+exit
+cd 
+cd Downloads/
+ls
+cd dotfiles-master/
+ls
+cat ~/.bashrc
+sudo nano ~/.bashrc 
+source .bashrc
+source ~/.bashrc
+exit
+rt
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+rt
+rt .config/nvim/init.vim 
+sudo date -s '03 DEC 2021 22:23:00'
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+code zite_ssh/.
+code zite/.
+cd zite
+ssh ubuntu@34.83.186.91
+sudo date -s '05 DEC 2021 22:32:00'
+sudo date -s '07 DEC 2021 13:59:00'
+sudo date -s '09 DEC 2021 15:16:00'
+python
+exit
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+cd zite
+git status
+ssh ubuntu@34.83.186.91
+exit
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+xit
+exit
+sudo date -s '10 DEC 2021 13:23:00'
+exit
+sudo date -s '10 DEC 2021 23:29:00'
+sudo date -s '13 DEC 2021 11:43:00'
+/bin/python
+sudo date -s '16 DEC 2021 14:24:00'
+cd ZITE/srv/
+code zite_ssh/.
+code zite/.
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sudo date -s '18 DEC 2021 21:35:00'
+sudo date -s '19 DEC 2021 16:42:00'
+sudo date -s '20 DEC 2021 00:35:00'
+sudo date -s '20 DEC 2021 21:53:00'
+rt
+sudo date -s '22 DEC 2021 18:20:00'
+sudo apt update
+i3 --version
+sudo apt purge i3
+sudo apt autoremove
+sudo apt upgrade
+sudo apt full-upgrade
+exity
+exit
+LS
+ls
+cd ZITE/srv/zite
+git status
+git checkout api/urls/v2/project_map.py api/urls/v2/reports.py api/utils/vector_tile.py api/viewsets/v2/reports_viewset.py apiv1/viewsets/reports_viewset.py reporting/tasks.py api/utils/project_metrics.py
+git status
+git checkout -b feature-maps
+git status
+git checkout api/urls/v2/project_map.py api/urls/v2/reports.py api/utils/vector_tile.py api/viewsets/v2/reports_viewset.py apiv1/viewsets/reports_viewset.py reporting/tasks.py 
+ls
+git status
+sudo rm api/utils/project_metrics.py 
+git status
+git pull origin staging 
+git status
+git pull origin staging 
+code .
+codium
+code
+vscode
+code --version
+git branch
+git checkout feature-site 
+git status
+git checkout feature-maps 
+git status
+git pull origin staging
+code .
+codium .
+sudo date -s '23 DEC 2021 21:57:00'
+sudo apt autoremove --purge
+sudo apt-get autoclean
+audo apt-get clean
+sudo apt-get clean
+ls
+clear
+exit
+ls
+clear
+exit
+apt list --installed
+sudo apt-get remove kdelibs-bin kdelibs5-data 
+exit
+cat /etc/adjtime 
+timedatectl
+exit
+sudo apt update
+sudo apt parrot-upgrate
+sudo apt parrot-upgrade
+sudo apt full-upgrade
+sudo parrot-upgrade
+sudo apt purge i3
+sudo apt install i3 rofi
+ls
+ls
+clear
+python
+rm .config/i3/config 
+i3-config-wizard
+rofi
+rofi -show
+rofi -run
+rofi -show run
+nano .config/i3/config 
+cd .config/i3/
+cp config config.old
+rm config
+cp ~/Downloads/config config
+sudo apt install nautilus
+sudo apt install i3-gaps
+sudo apt install i3status
+i3 status
+i3status -v
+i3 -v
+ls
+cat config
+cat config | grep status
+status_command i3status
+pwd
+cat config | grep /home/noobie
+nano config
+cd
+whereis alacritty
+cd alacritty/
+ls
+mv alacritty.yml alacritty.oldyml1
+cp ../Downloads/alacritty.yml alacritty.yml
+alacritty
+sudo apt install nitrogen
+nitrogen
+sudo apt install comptom
+sudo apt install compton
+cd
+cd .config/i3/
+ls
+cat config
+cd Downloads/
+sudo dpkg -i discord-0.0.16.deb 
+sudo apt install xrandr
+sudo apt install x11-xserber-utils
+sudo apt install x11-xserver-utils
+xrandr --output HDMI-2 --auto --right -of eDPI
+xrandr --output HDMI-2 --auto --right-of eDPI
+xrandr
+xrandr --output HDMI-2 --auto --right-of eDPI-1
+xrandr --output HDMI-2 --auto --right-of eDP-1
+xrandr --output HDMI-2 --mode 1920x1080
+xrandr | grep HDMI-2
+xrandr --output HDMI-2 --mode 1920x1080
+source ~/alacritty/alacritty.yml 
+subl
+source alacritty/alacritty.yml 
+sudo apt purge alacritty
+cd alacritty/
+ls
+cd config-alacritty/
+ls
+cp alacritty.yml alac.ymlback
+cd ..
+mv alacritty.yml config-alacritty/alacritty.yml
+mv alacritty.oldyml1 alacritty.yml
+ls
+source config-alacritty/alacritty.yml 
+c d..
+cd ..
+whereis alacritty
+sudo rm /usr/local/bin/alacritty 
+whereis alacritty
+sudo rm -r alacritty/
+ranger
+ls
+clear
+cd Downloads/
+echo $XDG_CONFIG_HOME
+echo $Home
+echo $HOME
+cd
+cd .config/
+mkdir alacritty
+cd alacritty/
+cp ~/Downloads/alacritty.yml alacritty.yml
+source alacritty.yml 
+subl alacritty.yml 
+source alacritty.yml 
+ls
+zsh
+clear
+ls
+clear
+exit
+sudo apt install alacritty
+cd Downloads/
+sudo dpkg -i Alacritty-v0.4.2-ubuntu_18_04_amd64\ \(1\).deb 
+alacritty
+cd ..
+cd  
+cd ZITE/srv/
+ls
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+exit
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080
+cd .config/alacritty/
+ls
+nano alacritty.yml 
+cd ..
+cd i3status/
+ls
+nano config 
+exit
+cd .config/i3status/
+ls
+nano config 
+xrandr --output HDMI-2 --mode 1920x1080
+sudo date -s '15 JAN 2022 16:58:00'
+xrandr --output HDMI-2 --mode 1920x1080
+cat Documents/git-token.txt 
+nano Documents/git-token.txt 
+python
+exit
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+cd projects/
+ls
+cd ..
+cd ZITE/srv/
+code zite/.
+codium zite/.
+codium zite_ssh/.
+cat Documents/git-token.txt 
+git --config
+cd ZITE/srv/zite/
+git staus
+git status
+git config --global
+git config --global user.name "vushan-naxa"
+git config --global user.email "bhushan.naxa@gmail.com"
+git status
+git pull origin staging 
+git config --global user.name vushan-naxa
+git config --global user.name "vushan-naxa"
+ssh ubuntu@34.83.186.91
+cat Documents/git-token.txt 
+sudo apt update
+sudo apt list --upgradable
+cd ZITE/srv/zite
+git statis
+git status
+git branch
+cd ..
+cd
+git config --global 
+git config --global --get-all
+git config --global --get name
+git config --global --get username
+git config --global --get user
+git ocnfig --list
+git config --list
+git config --global --list
+git config --global user.name "vushan-naxa"
+git config --global --list
+git login
+git help
+cd Downloads/
+sudo dpkg -i code_1.63.2-1639562499_amd64.deb 
+code
+xrandr --output HDMI-2 --mode 1920x1080
+python
+sudo date -s '18 JAN 2022 15:09:00'
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+ifconfig
+ls
+cd projects/
+ls
+git clone https://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@github.com/sijandh35/manakamana-school.git
+ls
+sudo rm -r manakamana-school/
+ls
+git clone git@github.com:sijandh35/manakamana-school.git
+cd manakamana-school/
+git checkout -b vushan-branch
+code .
+cp env_sample .env
+nano .env
+docker build -t project:0.0.1 .
+docker-compose up
+chmod +x entrypoint.sh 
+docker-compose up
+cat ~/Documents/git-token.txt 
+cat Documents/git-token.txt 
+cd Downloads/
+ls
+cd
+cd projects/manakamana-school/
+ls
+git status
+git add .
+git status
+git config --list global
+git config --global --list
+git config --local --list
+git add .
+git commit -m 'template added'
+git branc
+git branch
+git pull origin master
+git push origin vushan-branch 
+xrandr --output HDMI-2 --mode 1920x1080
+nitrogen
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+cd zite
+git status
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/zite
+git pull origin staging 
+python
+pytho 
+python
+xrandr --output HDMI-2 --mode 1920x1080
+python
+exit
+cd ZITE/srv/zite
+code .
+cd projects/manakamana-school/
+ls
+code .
+
+docker build -t project:0.0.1 .
+sudo rm -r postgres_data/
+docker build -t project:0.0.1 .
+docker-compose up
+docker-compose up -d
+docker-compose exec -it manakamana_web bash
+docker exec -it manakamana_web bash
+docker-compose up 
+docker-compose up -d
+docker exec -it manakamana_web bash
+ons
+docker exec -it manakamana_web bash
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up 
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up 
+git status
+git add .
+git commit -m 'template slicing complete'
+git pull origin master
+git push origin vushan-branch 
+docker-compose up 
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up 
+git status
+git add .
+git commit -m 'page wise model created'
+git pull origin master 
+git push origin vushan-branch 
+cd
+cd ZITE/srv/
+ls
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+fusermount -u ZITE/srv/zite_ssh
+fusermount -u zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+clear
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/zite
+git status
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code .
+cd ..
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/zite
+git status
+git diff api/viewsets/v2/manage_forms.py
+git diff api/viewsets/v2/core_viewset.py
+git status
+git checkout api/viewsets/v2/core_viewset.py api/viewsets/v2/manage_forms.py
+git status
+python
+pythom
+python
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+fusermount -u zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080
+xrandr --output HDMI-2 --scale 0.75x0.75
+xrandr --output HDMI-2 --mode 1920x1080 --scale 0.75x0.75
+xrandr --output HDMI-2 --mode 1920x1080 --scale 0.9x0.9
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1.25x1.25
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+cd ZITE/srv/zite
+git status
+git diff api/utils/metrics_filter.py
+git status
+git diff api/utils/project_metrics.py
+cd ZITE/srv/zite
+git status
+git diff reporting/utils/metrics.py
+python
+/bin/python
+code ZITE/srv/zite
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/zite_ssh/
+code .
+cd
+ssh ubuntu@34.83.186.91
+python
+cd ZITE/srv/
+cd zite
+git status
+clear
+python
+python 
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+fusermount -u zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+clera
+clear
+cd
+cd projects/manakamana-school/
+code .
+docker-compose up -d
+docker-compose up 
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up 
+docker-compose up -d
+docker-compose up 
+docker-compose up -d
+docker-compose up 
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up 
+cd
+cd ZITE/srv/zite
+cd ..
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+fusermount -u zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+exit
+cd ZITE/srv/zite
+git status
+cd projects/manakamana-school/
+git status
+git add .
+git commit -m 'home page complete'
+git branch
+git push origin vushan-branch 
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+fusermount -u zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/zite
+git pull origin staging 
+exit
+ssh ubuntu@34.83.186.91
+python
+cd ZITE/srv/zite
+git status
+git pull origin staging 
+git add api/serializers/reports_serializer.py api/utils/metrics_filter.py api/utils/project_metrics.py api/utils/vector_tile.py api/viewsets/v2/reports_viewset.py reporting/tasks.py reporting/utils/metrics.py
+git commit -m 'project reports update'
+git push origin feature-reports-group 
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code ZITE/srv/zite/.
+code ZITE/srv/zite_ssh/.
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+cd projects/manakamana-school/
+git pull origin master 
+code .
+docker-compose up 
+git status
+git add .
+git commit -m 'pages updates'
+git push origin vushan-branch 
+cd
+clear
+ssh ubuntu@34.83.186.91
+cd projects/manakamana-school/
+ls
+docker-compose up -d
+docker-compose up 
+cd ZITE/srv/zite
+git status
+git diff reporting/tasks.py
+cd projects/manakamana-school/
+docker build -t project:0.0.1 .
+sudo rm -r postgres_data/
+docker build -t project:0.0.1 .
+git status
+git add .
+git commit -m 'all pages updated'
+git pull origin master 
+git push origin vushan-branch 
+cd
+clear
+cd ZITE/srv/
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+fusermount -u zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+python 
+python
+cd ZITE/srv/
+cd zite
+git status
+git add api/viewsets/v2/reports_viewset.py reporting/tasks.py reporting/utils/metrics.py
+git commit -m 'reports module: project report filter and group'
+git pull origin staging
+git push origin feature-reports-group 
+cd ZITE/srv/zite
+git status
+htop
+cd projects/manakamana-school/
+git pull origin master 
+code .
+docker-compose up
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up -d
+docker-compose up
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker build -t project:0.0.1 .
+sudo rm -r postgres_data/
+docker build -t project:0.0.1 .
+docker-compose up -d
+docker-compose up 
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up 
+cd 
+cd Downloads/
+ls
+cd
+clear
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code ZITE/srv/zite/.
+code ZITE/srv/zite_ssh/.
+ssh ubuntu@34.83.186.91
+ssh ubuntu@34.83.186.91
+cd Downloads/
+sudo dpkg -i dbeaver-ce_21.3.3_amd64.deb 
+dbeaver
+cd projects/manakamana-school/
+git pull origin master
+code .
+docker-compose up -d
+docker-compose up 
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up -d
+docker exec -it manakamana_web bash
+docker-compose up 
+git status
+git add .
+git commit -m 'models updated'
+git push origin vushan-branch 
+python
+sudo date -s '28 JAN 2022 15:47:00'
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+ssh ubuntu@34.83.186.91
+python
+/bin/python
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+python
+cd ZITE/srv/zite
+git pull origin staging
+git status
+cd ZITE/srv/zite
+git status
+git add api/utils/project_metrics.py api/utils/vector_tile.py api/viewsets/v2/reports_viewset.py reporting/tasks.py reporting/utils/metrics.py
+git commit -m 'project reports and group v4'
+status
+git statu
+git status
+git pull origin staging
+git push origin feature-reports-group 
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+cd ZITE/srv/
+cd zite
+git status
+git diff api/serializers/submission.py
+git add api/serializers/submission.py reporting/tasks.py
+git commit -m 'project-report update'
+git pull origin staging
+git push origin project-reports-fixes 
+python
+cd ZITE/srv/zite
+git status
+git add api/viewsets/v2/reports_viewset.py
+git commit -m 'label change'
+git pull origin staging
+git push origin project-reports-fixes 
+python
+python 
+python
+cd ZITE/srv/zite
+git status
+git add api/utils/project_metrics.py api/viewsets/v2/reports_viewset.py reporting/tasks.py 
+git status
+git commit -m 'added label in reports'
+git pull origin staging
+git push origin project-reports-fixes 
+sudo date -s '05 FEB 2022 14:26:00'
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+cd ZITE/srv/zite
+git status
+git diff api/viewsets/v2/reports_viewset.py
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+python
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+python
+sudo date -s '09 FEB 2022 12:04:00'
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+clear
+ssh ubuntu@34.83.186.91
+lear
+clear
+cd ZITE/srv/zite
+git status
+git pull origin staging
+code .
+code ../zite_ssh/.
+clear
+ssh ubuntu@34.83.186.91
+cd ..
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+clear
+cd
+clear
+ls
+cd projects/
+ls
+npx degit sveltejs/template svelte-feedback-app
+cd svelte-feedback-app/
+npm i
+code .
+npm run dev
+npm i uuid
+npm run dev
+clear
+cd ..
+;s
+ls
+mkdir svelte-projects
+mv svelte-feedback-app/ svelte-projects/svelte-feedback-app/
+cd svelte-projects/
+;s
+ls
+clear
+npx degit sveltejs/template calc-app
+cd calc-app/
+npm i
+npm run dev
+code .
+npm run dev
+clear
+cd ..
+ls
+clear
+npx degit sveltejs/template school-portal-v1
+npm i
+cd school-portal-v1/
+code .
+npm run dev
+npm i
+npm run dev
+npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss-cli@^7 autoprefixer@^9 concurrently cross-env --save-dev
+npm run dev
+cd ZITE/srv/zite
+code .
+cd ..
+code zite_ssh/.
+cd projects/svelte-projects/svelte-feedback-app/
+npm run dev
+code .
+npm run dev
+cd ..
+ls
+cd calc-app/
+npm run dev
+code .
+docker exec -it manakamana_web bash
+docker ps
+docker stop manakamana_web
+docker ps
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+code zite_ssh/.
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd projects/svelte-projects/school-portal-v1/
+code .
+npm run dev
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+sudo date -s '13 FEB 2022 12:00:00'
+nitrogen
+cd projects/svelte-projects/school-portal-v1/
+git status
+cod e.
+code .
+npm run dev
+npm i -D svelte-preprocess tailwindcss postcss autoprefixer
+npx tailwindcss init
+npm run dev
+git status
+git add .
+git commit -m 'login page updated'
+git pull origin main
+git branch
+git push origin develop 
+npm run dev
+cd ..
+clear
+npx degit sveltejs/template test-new
+cd test-new/
+npm i
+code .
+npm run dev
+CD ..
+cd ..
+ls
+cd svelte-feedback-app/
+npm run dev
+cd ..
+cd school-portal-v1/
+npm run dev
+code .
+npm run dev
+cd
+clear
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+cd ZITE/sr
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+cd zite
+git status
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+fusermount -u zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+zite_-
+cd ZITE/srv/
+sudo rm -r zite_ssh
+sudo rm -r zite_ssh/
+sudo rm -rf zite_ssh/
+killall sshfs
+fusermount -u zite_ssh
+sudo umount zite_ssh
+sudo umount -f zite_ssh
+sudo umount -l zite_ssh
+sudo rm -rf zite_ssh/
+mkdir zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogne
+nitrogen
+sudo date -s '15 FEB 2022 22:58:00'
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+pwd
+exit
+sudo apt install cpu-checker
+egrep -c '(vmx|svm)' /proc/cpuinfo
+kvm-ok 
+sudo apt-get install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+cd dow
+cd Downloads/
+ls
+cd ..
+ls
+cd utils/
+git clone https://github.com/flutter/flutter.git -b stable
+which flutter
+sudo nano ~/.bashrc 
+source ~/.bashrc 
+which flutter
+flutter precache
+flutter doctor
+tar xf ~/Downloads/android-studio-2021.1.1.21-linux.tar.gz 
+ls
+cd android-studio/
+ls
+cd ..
+cd android-studio/
+ls
+cd bin/
+ls
+./studio.sh
+sudo apt install android-studio
+whereis android-studio
+cd ..
+sudo nano ~/.bashrc 
+whereis android-studio
+source ~/.bashrc 
+whereis android-studio
+ls
+cat Install-Linux-tar.txt 
+cd bin/
+./studio.sh
+ls
+sudo nano ~/.bashrc 
+source ~/.bashrc 
+whereis android-studio
+sudo nano ~/.bashrc 
+whereis android-studio
+source ~/.bashrc 
+whereis android-studio
+sudo nano ~/.bashrc 
+source ~/.bashrc 
+whereis android-studio
+echo $PATH
+echo $PATH | grep android
+cd ..
+ls
+cat Install-Linux-tar.txt 
+studio
+./studio.sh
+cd bin/
+./studio.sh
+whereis android-studio
+sudo nano ~/.local/share/applications/android-studio.desktop
+android-studio
+sudo nano ~/.local/share/applications/android-studio.desktop
+cd
+./utils/android-studio/bin/studio.sh
+sudo rm ~/.local/share/applications/android-studio.desktop
+flutter doctor
+cd utils/android-studio/
+ls
+cd bin/
+ls
+cd 
+cd utils/
+path/to/sdkmanager --install "cmdline-tools;latest"
+sdkmanager --install "cmdline-tools;latest"
+flutter doctor --android-licenses
+./utils/android-studio/bin/studio.sh
+cd
+./utils/android-studio/bin/studio.sh
+/home/cypher/Android/Sdk --install "cmdline-tools;latest"
+sdkmanager
+flutter doctor
+cd Android/Sdk/
+ls
+cd tools/
+ls
+cd ..
+cd build-tools/
+ls
+cs ..
+cs 
+android-sdk
+cd ..
+cd tools/bin/
+ls
+cd ..
+bin/sdkmanager --install "cmdline-tools;latest"
+cd
+flutter doctor
+Android/Sdkbin/sdkmanager --install "cmdline-tools;latest"
+Android/Sdk/bin/sdkmanager --install "cmdline-tools;latest"
+~/Android/Sdk/tools/bin/sdkmanager --install "cmdline-tools;latest"
+./utils/android-studio/bin/studio.sh
+flutter doctor
+flutter doctor --android-licenses
+flutter doctor
+flutter doctor --android-licenses
+flutter doctor
+sudo nano /usr/share/applications/android-studio.desktop
+source ~/.bashrc 
+sudo nano /usr/share/applications/android-studio.desktop
+chmod a+x /usr/share/applications/android-studio.desktop
+ls /usr/share/applications/
+desktop-file-validate /usr/share/applications/android-studio.desktop
+sudo nano /usr/share/applications/android-studio.desktop
+desktop-file-validate /usr/share/applications/android-studio.desktop
+sudo update-desktop-database 
+android-studio
+whereis android-studio
+sudo chmod a+x utils/android-studio/bin/studio.sh
+studio
+android-studio
+sudo update-desktop-database 
+cd utils/android-studio/bin/
+ls
+studio.sh
+cd utils/android-studio/bin/
+./studio.sh
+studio
+studio.sh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+python
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code ZITE/srv/zite_ssh/.
+ssh ubuntu@34.83.186.91
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+sudo date -s '19 FEB 2022 23:39:00'
+flutter upgrade
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+sudo date -s '21 FEB 2022 09:09:00'
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+sudo date -s '21 FEB 2022 14:16:00'
+cd ZITE/srv/zite
+git status
+nvim .
+nvim test.py
+exit
+git status
+exit
+pip install pylint-django
+exit
+cd ZITE/srv/zite
+code .
+git status
+git staut
+git status
+nvim .
+git staut
+git statu
+git status
+git diff api/urls/v2/reports.py
+git checkout api/urls/v2/reports.py apiv1/urls/reports.py
+git status
+nvim test.py
+ls
+nvim .
+cp ~/Downloads/pylint.vim ~/.config/nvim/compiler/pylint.vim
+mkdir ~/.config/nvim/compiler
+cp ~/Downloads/pylint.vim ~/.config/nvim/compiler/pylint.vim
+nvim .
+sudo apt-get install python3-venv
+cd ZITE/srv/zite
+nvim .
+cd
+cd .config/nvim/
+ls
+nano init.lua 
+cd lua/
+ls
+cd user/
+ls
+cd ..
+cd pack/
+ls
+cd github/
+ls
+cd start/
+ls
+cd ..
+c d..
+cd ..
+ls
+cd plugin/
+ls
+cd ..
+cd lua/
+l
+cd user/
+ls
+sudo nano plugins.lua 
+nvim
+git clone https://github.com/savq/paq-nvim.git     "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/pack/paqs/opt/paq-nvim
+nvim
+cd .config/nvim/plugin/
+ls
+cd ..
+cd lua/
+ls
+cd user/
+ls
+nano paq-nvim.lua
+nvim
+cd 
+cd ZITE/srv/zite
+nvim .
+nvim
+cd ~/.config/nvim/lua/user/
+ls
+sudo rm paq-nvim.lua 
+nvim
+nvim .
+cd 
+cd ZITE/srv/zite
+git status 
+nvim .
+cd ZITE/srv/zite
+nvim .
+nvim ~/test.py
+nvim
+cd ~/.config/nvim/pack/github/start/
+git clone https://tpope.io/vim/surround.git
+nvim -u NONE -c "helptags surround/doc" -c q
+nvim
+cd 
+nvim test.py
+python
+code ZITE/srv/zite_ssh/.
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code ZITE/srv/zite_ssh/.
+ssh ubuntu@34.83.186.91
+clear
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+nvim test.py
+cd ZITE/srv/zite
+nvim .
+code .
+/bin/python
+code ZITE/srv/zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+fusermount -u zite_ssh
+sudo umount -f zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sudo date -s '23 FEB 2022 09:56:00'
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+cd ZITE/srv/
+cd zite
+git status
+cd ZITE/srv/zite
+nvim .
+python
+/bin/python
+python
+cd ZITE/srv/zite
+nvim .
+exit
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+code zite/.
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+sudo umount -f zite_ssh
+sudo umount -l zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+cd zite
+git status
+git add .
+git commit -m 'reports fixes'
+git pull origin staging
+git status
+git add .
+git commit -m 'conflict fix'
+git status
+git pull origin staging
+git push origin reports-map-fixes 
+sudo apt install ctags
+sudo apt install exuberant-ctagts
+sudo apt install exuberant-ctags
+ls
+exit
+sudo nvim .config/nvim/init.lua 
+nvim .config/nvim/init.lua 
+cd .config/nvim/ 
+ls
+cd pack/github/start/
+cd ..
+cd .
+cd ..
+cd plugin/
+ls
+cd ..
+cd lua/user/
+ls
+cat indentline.lua 
+cd ..
+ls
+cd pack/
+;s
+ls
+cd github/start/
+ls
+cd surround/
+ls
+cd ..
+git clone https://github.com/preservim/tagbar.git
+cd ../../..
+ls
+nvim init.lua 
+cd lua/
+ls
+cd user/
+ls
+nvim plugins.lua 
+nvim
+
+nvim
+ls
+cd ..
+ls
+nvim init.lua 
+cd lua/user/
+nvim keymaps.lua 
+nvim whichkey.lua 
+cd
+nvim test.py
+exit
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+sudo umount -l zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+sudo umount -l zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/
+code zite_ssh/.
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+cd .config/nvim/lua/user/
+ls
+nvim lualine.lua 
+ls
+nvim
+exit
+nvim test.py
+sudo nano .config/i3/config
+nvim .config/i3/config
+ranger
+~/
+lf
+sudo apt install libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-render0-dev libxcb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb-present-dev libxcb-xinerama0-dev libxcb-glx0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl1-mesa-dev libpcre2-dev libpcre3-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev meson
+cd utils/
+git clone https://github.com/yshui/picom.git
+cd picom/
+ls
+sudo apt install meson ninja
+sudo apt-get install ninja
+git submodule update --init --recursive
+meson --buildtype=release . build
+ninja -C build
+ninja -C build install
+sudo ninja -C build install
+cd
+ls /etc/xdg/
+whereis picom
+ls /usr/bin/picom/
+cd /usr/bin/
+ls
+cat picom
+clear
+cd
+whereis picom
+sudo apt install picom
+cd utils/
+ls
+touch picom.conf
+nvim picom.conf 
+picom --config picom.conf -b
+picom --config picom.conf --experimental-backends -b
+nvim ../.config/i3/config
+killall comptom
+killall picom
+picom --config picom.conf --experimental-backends -b
+nvim ~/.config/alacritty/alacritty.yml 
+nvim ../.config/i3/config
+nvim .config/alacritty/alacritty.yml 
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+sudo apt install code-minimap
+cd Downloads/
+ls
+sudo dpkg -i code-minimap-musl_0.6.4_amd64.deb 
+nvim
+cd
+clear
+nvim .config/nvim/lua/user/colorscheme.lua 
+nvim
+nvim .config/nvim/lua/user/nvim-tree.lua 
+nvim .config/nvim/lua/user/plugins.lua 
+nvim
+nvim .config/nvim/lua/user/plugins.lua 
+nvim .config/nvim/lua/user/colorscheme.lua.lua 
+nvim .config/nvim/lua/user/colorscheme.lua
+nvim .config/nvim/lua/user/plugins.lua.lua
+nvim .config/nvim/lua/user/plugins.lu
+nvim .config/nvim/lua/user/plugins.lua
+nvim
+cd ZITE/srv/
+cd zite
+nvim .
+nvim ~/.config/nvim/lua/user/colorscheme.lua 
+nvim .
+cd
+cd .config/nvim/
+ls
+cd lua/
+;a
+ls
+nvim plugi
+cd user/
+nvim plugins.lua 
+nvim ~/ZITE/srv/zite/.
+nvim plugins.lua 
+nvim colorscheme.lua 
+nvim plugins.lua 
+cd
+cd ZITE/srv/
+cd zite
+nvim .
+clear
+ls
+exit
+xit
+exit
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+sudo date -s '25 FEB 2022 23:48:00'
+nvim
+studio
+cd utils/android-studio/
+./bin/studio.sh
+clear
+cd
+cat .bashrc 
+nvim .bashrc 
+source .bashrc 
+studio
+cd utils/android-studio/bin/
+ls
+clear
+cd
+clear
+nvim .bashrc
+source .bashrc
+studio
+nvim .bashrc
+source .bashrc
+studio
+nvim .bashrc
+exit
+lf
+source .bashrc
+studio
+ls
+clear
+ls
+cd Downloads/
+ls
+clea
+clear
+cd
+nvim .bashrc
+exit
+ls
+cd utils/
+ls
+nvim studio-start.sh
+chmod +x studio-start.sh 
+sudo cp studio-start.sh /usr/bin/studio.sh
+./utils/studio-start.sh 
+nvim utils/studio-start.sh 
+./utils/studio-start.sh 
+nvim utils/studio-start.sh 
+./utils/studio-start.sh 
+cd utils/
+./studio-start.sh 
+cd android-studio/bin/
+ls
+cd ../..
+;ls
+ls
+./android-studio/bin/studio.sh
+nvim utils/studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+pwd
+./studio-start.sh 
+nvim studio-start.sh 
+chmod +x studio-start.sh 
+./studio-start.sh 
+cat studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+exec studio
+studio
+android-studio/bin/studio.sh
+ls
+cd
+nvim .bashrc
+cd utils/ 
+nvim studio-start.sh 
+studio-start.sh 
+./studio-start.sh 
+nvim studio-start.sh 
+./studio-start.sh 
+cd utils/
+cp studio-start.sh /usr/bin/studio.sh 
+sudo cp studio-start.sh /usr/bin/studio.sh 
+sudo date -s '27 FEB 2022 21:34:00'
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+nvim
+clear
+nvim
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/
+nvim zite_ssh/.
+cd ZITE/srv/zite
+git status
+nvim .
+cd ..
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+sudo umount -l zite_ssh
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/zite
+git status
+nvim .
+cd ZITE/srv/zite
+git status
+git diff core/models.py
+nvim .
+git diff core/models.py
+clear
+git status
+code ../zite_ssh/.
+clear
+git status
+nvim .
+git diff api/urls/v2/reports.py
+git status
+python
+git status
+git add .
+git commit -m 'reports and map fixes'
+git pull origin staging
+git status
+git pull origin staging
+git push origin reports-map-fixes 
+cd
+cd Desktop/
+la
+./balenaEtcher-1.5.122-x64.AppImage 
+python
+xrandr --output HDMI-2 --mode 1920x1080 --scale 1x1
+nitrogen
+ls
+cd api/utils/
+ls
+touch metrics.py
+touch site_information.py
+touch form_information.py
+cd ZITE/srv/
+code zite/.
+code zite_ssh/.
+cd zite
+nvim .
+git status
+git add .
+git commit 'reports form info fixes'
+git status
+git commit -m 'reports form info fixes'
+git status
+git branch
+git pull origin staging
+git push origin reports-map-fixes 
+nvim .
+sudo apt install gparted
+gparted
+sudo gparted
+fdisk
+fdisk --help
+fdisk -l
+sudo su
+clear
+ls
+clear
+nvim .
+python
+clear
+cd .config/nvim/
+ls
+cat init.lua 
+cd lua/user/
+cat autocommands.lua 
+ls
+ls lsp/
+cd lsp/
+sudo nano init.lua 
+sudo nano handlers.lua 
+cd settings/
+ls
+nano jsonls.lua 
+nano sumneko_lua.lua 
+cd ..
+;s
+ls
+cat init.lua 
+cd ..
+c d..
+cd ..
+c d..
+ls
+cd ..
+ls
+sudo nano init.lua 
+cd ..
+cd i3/
+ls
+nvim config
+ssh ubuntu@34.83.186.91
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+ssh ubuntu@34.83.186.91
+nvim .config/nvim/init.lua 
+nvim .config/nvim/lua/user/plugins.lua 
+nvim .config/nvim/init.lua 
+python
+python test.py
+nvim test.py
+python
+python 
+clear
+ssh ubuntu@34.83.186.91
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+nvim .
+cd zite
+nvim .
+exit
+sudo date -s '08 MAR 2022 12:06:00'
+nvim test.py
+python
+nvim test.py
+python
+nvim test.py
+python
+cd ZITE/srv/zite
+git status
+git add .
+git commit -m 'reports and map update'
+git status
+git pull origin staging 
+git status
+git push origin reports-map-fixes 
+sudo date -s '09 MAR 2022 11:03:00'
+htop
+cd ZITE/srv/zite
+nvim .
+exit
+cd ZITE/srv/zite
+nvim 
+cd
+cd .config/nvim/
+ls
+cd pack/github/start/
+ls
+cd ..
+c d..
+cd ..
+ls
+cd lua/user/
+ls
+cat plugins.lua 
+cd ZITE/srv/
+cd zite
+code .
+cd ..
+cd kobo/
+ls
+cd ..
+ls
+cd kobo/
+ls
+cd  kobocat/
+ls
+cd ..
+ls
+cd kobo-install/
+ls
+python3.8 run.py --cf up -d
+python3.8 run.py -cf up -d
+docker ps
+docker stop manakamana_web
+docker stop manakamana_db
+python3.8 run.py -cf up -d
+cd ..
+cd srv/zite
+docker exec -it manakamana_web bash
+docker ps
+git pull origin staging
+git status
+docker exec -it kobofe_zite_1 bash
+docker ps
+docker pull ziteio/zite:base
+docker exec -it kobofe_zite_1 bash
+cd ..
+cd kobo-install/
+python3.8 run.py -cf --force-recreate up -d
+python3.8 run.py -cf up -d --force-recreate
+python3.8 run.py --setup
+n
+cat run.py 
+python3.8 run.py --upgrade
+docker exec -it kobofe_zite_1 bash
+python3.8 run.py -cf up -d
+docker exec -it kobofe_zite_1 bash
+python3.8 run.py --stop
+python3.8 run.py -cf up -d
+docker exec -it kobofe_zite_1 bash
+docker ps
+python3.8 run.py -cf up -d
+
+docker ps
+python3.8 run.py -cf up -d
+docker ps
+cd ..
+ls
+cd kobo-docker/
+ls
+nano docker-compose.frontend.override.yml
+cd ..
+ls
+cd srv/zite
+ls
+git status
+git add .
+git commit -m 'models updated;
+git commit -m 'models updated'
+cd ../..
+ls
+cd kobo-docker/
+cat docker-compose.frontend.override.yml.sample 
+nano docker-compose.frontend.override.yml
+code docker-compose.frontend.override.yml
+cd ..
+cd kobo-install/
+python3.8 run.py -cf up -d
+cd ..
+cd kobo-docker/
+;s
+ls
+code docker-compose.frontend.yml 
+cd ..
+cd kobo-install/
+python3.8 run.py -cf up -d
+git status
+cd
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+cd ZITE/srv/zite
+cd ..
+code zite_ssh/.
+cd zite`
+cd zite
+git status
+git pull origin staging 
+git push origin reports-map-fixes 
+git status
+git logs
+git log
+git log --pretty=format:"%h - %an, %ar : %s" --since=2.day
+git status
+git diff core/models.py
+git add .
+git commit -m 'core models update'
+git pull origin staging 
+git status
+git push origin reports-map-fixes 
+nvim .
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+cd zite
+nvim .
+ssh ubuntu@34.83.186.91
+cd ..
+sshfs ubuntu@34.83.186.91:/home/ubuntu/work/srv/zite /home/cypher/ZITE/srv/zite_ssh
+code zite_ssh/.
+ssh ubuntu@34.83.186.91
+cd ZITE/srv/
+cd Z
+cd zite
+git status
+nvim .
+nvim ~/.config/nvim/init.lua 
+nvim .
